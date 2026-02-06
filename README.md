@@ -1,4 +1,4 @@
-# Product-analytics
+# Quantium Product-analytics
 Quantium is a data analytics and consulting company that specialises in using data to generate commercial insights for businesses, particularly in retail and consumer behaviour. In this project, Quantium provides transaction and customer data that allows us to analyse purchasing behaviour for chips across different customer segments.
 
 Using this dataset, we can explore patterns such as total sales contribution by customer segment, purchasing frequency, brand preferences, and price sensitivity. The goal of this analysis is to identify key customer groups and behavioural trends that can support data-driven marketing and product decisions.
